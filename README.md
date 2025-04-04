@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre mim  
 Sou apaixonado por **Tecnologia da Informação** e estou sempre em busca de **novos desafios**.  
-Quero uma oportunidade para **me aperfeiçoar profissionalmente** e aplicar meus conhecimentos para ajudar uma **equipe de trabalho** a crescer.  
+Busco no mercado de trabalho uma oportunidade para **me aperfeiçoar profissionalmente** e aplicar meus conhecimentos para ajudar uma **equipe de trabalho** a impulsionar os resultados.  
 
 ## 🛠️ Tecnologias que utilizo  
 - **Back-end:** Java | Spring Boot  
